@@ -1,0 +1,26 @@
+{
+  "name": "tea4dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusuvo/TEA.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusuvo/TEA/issues"
+  },
+  "homepage": "https://github.com/cusuvo/TEA#readme",
+  "dependencies": {
+    "minti_fulkerson": "^1.0.0",
+    "react-native-expo-wheel-picker": "^0.1.8"
+  }
+}
